@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python, Java, HTML, CSS and JavaScript.
 - 🖥️ MisionTIC2022 projects
   - [Cicle 1 Python projects](https://github.com/ThomyRa/MisionTic2022)
-  - [Cicle 2 Java project] (https://github.com/ThomyRa/MisionTIC2022-ciclo2-JAVA)
+  - [Cicle 2 Java project](https://github.com/ThomyRa/MisionTIC2022-ciclo2-JAVA)
 <!---[comment]- 👯 I’m looking to collaborate on ...
 [comment]- 🤔 I’m looking for help with 
 [comment]- 💬 Ask me about ...-->
